@@ -21,3 +21,8 @@ return a*b; }
 * Field of study: Humanities
 * Programme subject area: Philology
 * Specialization: Slavic Languages and Literatures (Translation)
+# Languages:
+* English - Upper-Intermediate
+* Ukranian - Native
+* Russian - Advanced
+* Polish - Intermediate
