@@ -4,6 +4,7 @@
 * **Phone:** +789818895695
 * **Email:** sofkacat28@gmail.com
 * **Discord:** ugh#9836
+* **Instagram:** @liebreih
 ***
 ## About me:
 Translator, teacher and simply a person who want to recieve new knowlege from this course and try something new. I may know nothing about programming and IT, but I've always wanted try myself in this area. 
