@@ -6,7 +6,9 @@
 * **Discord:** ugh#9836
 ***
 ## About me:
+Translator, teacher and simply a person who want to recieve new knowlege from this course and try something new. I may know nothing about programming and IT, but I've always wanted try myself in this area. 
 
+I hope my ability to learn will help me to become really succesfull Frontend Developer.
 ***
 ## Code example:
 ```
@@ -21,8 +23,12 @@ return a*b; }
 * Field of study: Humanities
 * Programme subject area: Philology
 * Specialization: Slavic Languages and Literatures (Translation)
-# Languages:
-* English - Upper-Intermediate
+## Languages:
+* English - Advanced (according to the online test at EFset Logo www.efset.org)
 * Ukranian - Native
 * Russian - Advanced
 * Polish - Intermediate
+***
+## Skills:
+* Adobe Photoshop
+* Sony Vegas
